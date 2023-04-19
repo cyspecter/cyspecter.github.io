@@ -1,4 +1,4 @@
-
+.profile-section
 
 body{
     background-color: rgb(214, 230, 245);
@@ -69,6 +69,13 @@ a:hover{
     font-weight: 500;
     font-size: 50px;
 }
+
+.midtrm-title{
+    font-family: 'Black Han Sans', sans-serif;
+    font-weight: 550;
+    font-size: 55px;
+}
+
 
 .sample{
     background-color: rgb(101, 125, 211);
@@ -354,4 +361,72 @@ a[title="Flaticon"]:hover{
 
 #name2-2:hover{
     color: rgb(255, 185, 56);
+}
+
+/* 중간고사 대체과제 section */
+
+.midtrm-exam-introduce{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+    margin: 100px 100px
+}
+
+.notification>p{
+    margin: 0px;
+    font-family: 'Noto sans KR', sans-serif;
+    font-weight: 300;
+    font-size: 13px
+}
+
+.life-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-content: center;
+    margin: 100px 150px;
+    margin-top: 20px;
+}
+
+.life{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 35px;
+    align-items: center;
+}
+
+.life-intro{
+    margin-left: 30px;
+}
+
+.life-name{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.life-exp{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 300px;ㄴ
+    font-size: 16px;
+    margin: 0px;
+    text-indent: 15px;
+}
+/*대체과제 dashboard section*/
+.type4:hover{
+    background-color: rgb(153, 232, 174);
+    color: rgb(227, 227, 213);
+}
+
+.type5:hover{
+    background-color: rgb(210, 138, 232);
+    color: rgb(227, 227, 213);
+}
+
+.type6:hover{
+    background-color: rgb(232, 103, 64);
+    color: rgb(227, 227, 213);
 }

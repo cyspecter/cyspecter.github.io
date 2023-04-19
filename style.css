@@ -1,7 +1,11 @@
-.profile-section
+
+
+
 
 body{
-    background-color: rgb(179, 211, 235);
+    display: block;
+    margin: 5px;
+    background-color: rgb(208, 245, 246) !important;
 }
 
 .frame{

@@ -1,7 +1,7 @@
 .profile-section
 
 body{
-    background-color: rgb(214, 230, 245);
+    background-color: rgb(179, 211, 235);
 }
 
 .frame{
@@ -410,7 +410,7 @@ a[title="Flaticon"]:hover{
 
 .life-exp{
     font-family: 'Noto Sans KR', sans-serif;
-    font-weight: 300px;ㄴ
+    font-weight: 300px;
     font-size: 16px;
     margin: 0px;
     text-indent: 15px;
